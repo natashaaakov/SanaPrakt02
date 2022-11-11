@@ -13,3 +13,5 @@
 - [x] GitHub
 - [ ] GitLab
 - [ ] Bitbucket
+
+Виконала Ковальчук Наталія
